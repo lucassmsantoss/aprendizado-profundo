@@ -1,5 +1,7 @@
 # Aprendizado Profundo — Trabalho: Intro. Redes Neurais e Redes Convolucionais
 
+Repositório: https://github.com/lucassmsantoss/aprendizado-profundo
+
 Aluno: Lucas Medeiros
 Disciplina: Aprendizado Profundo — PPgTI/IMD/UFRN
 Docente: Prof. Josenalde Oliveira
