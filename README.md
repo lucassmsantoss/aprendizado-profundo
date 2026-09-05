@@ -17,10 +17,8 @@ Um PDF único com as 3 tarefas consolidadas está em `relatorio_completo.pdf`.
 ## Notebooks
 
 - Tarefa 2 — MNIST + Optuna: `tarefa2/tarefa2_mnist_optuna.ipynb` (já executado, com todos os
-  outputs, gráficos e resultados reais salvos no próprio arquivo)
+  outputs, gráficos e resultados reais salvos no próprio arquivo) — link Colab:
+  https://colab.research.google.com/drive/1zFKRRcnSVH_FaU9bMy0xza6bvzjJmGZG?usp=sharing
 - Tarefa 3 — CNNs PyTorch + EMNIST: `tarefa3/tarefa3_cnn_emnist_pytorch.ipynb` (já executado, com
-  todos os outputs, gráficos e resultados reais salvos no próprio arquivo)
-
-**Observação:** os notebooks acima foram executados localmente. O enunciado pede um link Colab ou
-Kaggle — fazer upload desses dois arquivos `.ipynb` para o Google Colab (ou Kaggle) e gerar o
-link de compartilhamento antes da entrega final.
+  todos os outputs, gráficos e resultados reais salvos no próprio arquivo) — link Colab:
+  https://colab.research.google.com/drive/1j0Qyu3_pJIpritZf15XOShYtwKJQGQu_?usp=sharing
