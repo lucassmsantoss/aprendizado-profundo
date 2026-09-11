@@ -34,10 +34,14 @@ propensão (Rede 2, multiclasse, avaliada via Recall@2/@3).
 - Data Product Canvas: `trabalho_final_recomendacao_consultorias/data_project_canvas_recomendacao_consultorias.png`
 - Notebook (Rede 1 + Rede 2, com pré-processamento, tuning via Optuna, avaliação, discussão e
   limitações): `trabalho_final_recomendacao_consultorias/trabalho_final_recomendacao_consultorias.ipynb`
+  — link Colab: [link a adicionar após rodar no Colab]
 - Modelos treinados (Keras): `trabalho_final_recomendacao_consultorias/modelos/`
-- Base de dados: não incluída neste repositório — o notebook é executado no Google Colab, com a
-  base carregada a partir do Google Drive.
-- Vídeo pitch (≤10 min) explicando pipeline e arquitetura: [link a adicionar]
+- Base de dados: `trabalho_final_recomendacao_consultorias/base_modelagem_anonimizada.xlsx`,
+  incluída neste repositório (já anonimizada). O notebook lê o arquivo local se ele existir e,
+  caso contrário, baixa automaticamente direto deste repositório público — funciona em qualquer
+  ambiente (Colab, Kaggle, etc.) sem precisar de login ou permissão de Google Drive (ver célula
+  de configuração, seção 1 do notebook).
+- Vídeo pitch (≤10 min, estilo pitch) explicando pipeline e arquitetura: [link a adicionar]
 
 **Resultados principais:** Rede 1 — recall macro 0,85 e ROC-AUC 0,92 no teste; Rede 2 — recall
 macro 0,27, Recall@2 0,61 e Recall@3 0,75 no teste. Detalhes, discussão e limitações no notebook
