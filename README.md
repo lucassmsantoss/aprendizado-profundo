@@ -11,7 +11,7 @@ Este repositório reúne as 3 tarefas solicitadas e o trabalho final da discipli
 - **Tarefa 1** (`tarefa1/`): Estudo dirigido do TensorFlow Playground — experimentos reais de hiperparâmetros e respostas aos exercícios de fixação.
 - **Tarefa 2** (`tarefa2/`): Otimização de hiperparâmetros do MNIST com Optuna, a partir do notebook base do professor.
 - **Tarefa 3** (`tarefa3/`): Reprodução em PyTorch das arquiteturas CNN do artigo Silva Filho et al. (2022) sobre o Multiprova Corretor, aplicadas a subconjuntos do EMNIST (dígitos 1-5, V/F e letras A-E), com análise de parâmetros/tamanho dos modelos.
-- **Trabalho Final** (`trabalho_final_recomendacao_consultorias/`): Propensão de contratação de consultoria no Sebrae/RN — projeto individual completo (Data Product Canvas, notebook, modelo treinado e app de demonstração).
+- **Trabalho Final** (`trabalho_final_recomendacao_consultorias/`): Propensão de contratação de consultoria — projeto individual completo (Data Product Canvas, notebook, modelo treinado e app de demonstração).
 
 Um PDF único com as 3 tarefas consolidadas está em `relatorio_completo.pdf`.
 
@@ -24,9 +24,9 @@ Um PDF único com as 3 tarefas consolidadas está em `relatorio_completo.pdf`.
   todos os outputs, gráficos e resultados reais salvos no próprio arquivo) — link Colab:
   https://colab.research.google.com/drive/1j0Qyu3_pJIpritZf15XOShYtwKJQGQu_?usp=sharing
 
-## Trabalho Final — Propensão de Contratação de Consultoria (Sebrae RN)
+## Trabalho Final — Propensão de Contratação de Consultoria
 
-O Sebrae/RN atende milhares de empresas por ano, mas o contato comercial é um recurso limitado.
+Na empresa que trabalho atendemos milhares de empresas por ano, mas o contato comercial é um recurso limitado.
 Hoje não existe critério para decidir a quem oferecer uma consultoria: quem chuta acerta na
 taxa-base da população, cerca de **2,5%** — uma contratação a cada 40 abordagens.
 
