@@ -1,1 +1,22 @@
-.bat
+# temporarios do Office (aparecem enquanto o arquivo esta aberto)
+~$*
+
+# cache do Python e do Jupyter
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# lixo de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# apresentacao, guia e imagens geradas pelo notebook
+*.pptx
+*.potx
+figuras/
+trabalho_final_recomendacao_consultorias/guia_apresentacao.md
+
+# script local de commit (tem caminho fixo desta maquina)
+commit_push.bat
