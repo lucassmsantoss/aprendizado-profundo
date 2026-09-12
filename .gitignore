@@ -12,9 +12,11 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# apresentacao, guia e imagens geradas pelo notebook
+# apresentacao, guia e imagens
 *.pptx
 *.potx
+*.png
+*.gif
 figuras/
 trabalho_final_recomendacao_consultorias/guia_apresentacao.md
 
